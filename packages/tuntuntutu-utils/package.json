@@ -1,0 +1,11 @@
+{
+  "name": "tuntuntutu-utils",
+  "version": "1.0.0",
+  "description": "utils for tuntuntutu-tools",
+  "main": "index.js",
+  "author": "simon",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.3.2"
+  }
+}

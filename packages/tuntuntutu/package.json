@@ -1,0 +1,20 @@
+{
+  "name": "tuntuntutu",
+  "version": "1.0.0",
+  "description": "Command line interface for react application",
+  "bin": {
+    "tuntu": "./bin/index.js"
+  },
+  "author": "simon",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "commander": "^2.12.2",
+    "fs-extra": "^5.0.0",
+    "inquirer": "^5.2.0",
+    "javascript-stringify": "^1.6.0",
+    "read-pkg": "^3.0.0",
+    "simple-git": "^1.96.0",
+    "write-pkg": "^3.1.0"
+  }
+}
