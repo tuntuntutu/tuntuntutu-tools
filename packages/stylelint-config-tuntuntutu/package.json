@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-tuntuntutu",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "stylelint-config for tuntuntutu",
   "main": "index.js",
   "author": "simon",
