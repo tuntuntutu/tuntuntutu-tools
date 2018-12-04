@@ -6,7 +6,7 @@
   "scripts": {
     "publish": "lerna publish --npm-client npm",
     "changelog": "conventional-changelog -p angular -i CHANGELOG.md -s",
-    "commit": "git add . && git cz && yarn changelog"
+    "commit": "git add . && git cz && yarn changelog && git add CHANGELOG.md && git commit -m '日志提交'"
   },
   "lint-staged": {
     "*.js": [
