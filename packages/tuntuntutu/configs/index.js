@@ -6,7 +6,7 @@ module.exports = {
       spa: 'https://github.com/tuntuntutu/template-pc-SPA.git',
     },
     mobile: {
-      spy: 'https://github.com/tuntuntutu/template-mobile-spy.git',
+      wpy: 'https://github.com/tuntuntutu/template-mobile-spy.git',
     },
   },
 };

@@ -51,13 +51,12 @@ async function createApp(projectName) {
         if (tar === 'pc') {
           choices = [
             { name: 'SPA (React + React Router + Rematch)', value: 'spa' },
-            { name: '组件', value: 'component' },
-            { name: '多页面应用', value: 'multiple' },
+            { name: '多页面应用', value: 'mpa' },
             { name: '轻量级PC工程', value: 'lite' },
           ];
         }
         if (tar === 'mobile') {
-          choices = [{ name: '微信小程序SPY', value: 'spy' }];
+          choices = [{ name: '微信小程序（WPY）', value: 'wpy' }];
         }
 
         choices.push({ name: '取消', value: false });
