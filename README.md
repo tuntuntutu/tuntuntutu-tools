@@ -21,9 +21,6 @@ tuntu create my-app
     * pc端 *`platform: pc`*
     * 移动端 *`platform: mobile`*
 
- > 主要区别是`platform`为`mobile`时
-
-
 2. 选择项目类型（*注：之后都用`type`指代*）
 
      * SPA *`type: spa`*
